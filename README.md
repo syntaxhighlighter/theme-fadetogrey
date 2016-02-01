@@ -2,11 +2,11 @@
 
 fadetogrey theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-fadetogrey.svg)](https://travis-ci.org/alexgorbatchev/theme-fadetogrey)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-fadetogrey.svg)](https://travis-ci.org/syntaxhighlighter/theme-fadetogrey)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-fadetogrey
+    npm install @alexgorbatchev/theme-fadetogrey
 
 ## Testing
 
