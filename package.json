@@ -1,5 +1,5 @@
 {
-  "name": "theme-fadetogrey",
+  "name": "@alexgorbatchev/theme-fadetogrey",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
